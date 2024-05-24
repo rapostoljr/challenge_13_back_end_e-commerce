@@ -21,4 +21,4 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## VIEWING MY PROJECT
 Link to GitHub: <i> https://github.com/rapostoljr/challenge_13_back_end_e-commerce.git </i>\
-Videon link: <i> ENTER VIDEO LINK HERE </i>
+Video link: <i> https://drive.google.com/file/d/1ulzJWGOX-oWWXzsQpzykFVdSaYM8-Hsy/view </i>
