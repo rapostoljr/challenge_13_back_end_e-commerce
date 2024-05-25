@@ -6,6 +6,8 @@ Did you ever want to start an E-Commerce Website and needed to keep track of you
 ## HOW TO USE
 First, to use this application, you will first need to have Insomnia installed. You can get insomnia by going to the following link https://insomnia.rest/download. Once installed you will need to open your VSCode and clone this repository. Then open the cloned repository and open a new terminal. You will need to install the modules by running the 'npm install' command. Once installed, you will then have to run the seeds by entering 'npm run seed'. After running the seeds data, you will then need to start your server by typing 'npm start'. With the server running, you can now open Insomnia and CREATE, READ, UPDATE, or DELETE your data inventory.
 
+![alt insomnia](./public/images/insomnia.jpg)
+
 ## ACCEPTANCE CRITERIA
 GIVEN a functional Express.js API\
 WHEN I add my database name, MySQL username, and MySQL password to an environment variable file\
